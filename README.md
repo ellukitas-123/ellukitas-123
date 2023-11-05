@@ -1,4 +1,5 @@
-### Hi there 👋
+# Ellukitas_123
+Hi, I'm a teenage writing code for more than 4 years, still learning
 
 <!--
 **Ellukitas-123/Ellukitas-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
