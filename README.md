@@ -1,6 +1,14 @@
 # Ellukitas_123
-Hi, I'm a teenage writing code for more than 4 years, still learning
+## Presentation
+Hi 🤙, I'm a teenage writing code for more than 4 years, still learning.
+I've moved into videogames development and now discovering web development
 
+### Technologies
+[![Unity](https://img.shields.io/badge/unity?logo=unity)]()
+
+## Current projects
+- Omi
+- KN webpage
 <!--
 **Ellukitas-123/Ellukitas-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
