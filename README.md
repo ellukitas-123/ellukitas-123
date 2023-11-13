@@ -4,7 +4,9 @@ Hi 🤙, I'm a teenage writing code for more than 4 years, still learning.
 I've moved into videogames development and now discovering web development
 
 ### Technologies
-[![Unity](https://img.shields.io/badge/unity?logo=unity)]()
+[![Unity](https://img.shields.io/badge/Unity-999999?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C_sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+[![Aws](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)]()
 
 ## Current projects
 - Omi
