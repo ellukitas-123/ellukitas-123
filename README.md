@@ -43,11 +43,16 @@ I've moved into videogames development and now discovering web development
 [![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010)](https://www.arduino.cc/)
 </br>
 
+- **Code editors:**
+
+[![VS Code](https://img.shields.io/badge/VS_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)](https://code.visualstudio.com/)
+[![VS community](https://img.shields.io/badge/VS_code_community-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=101010)](https://visualstudio.microsoft.com/es/vs/community/)
+
 ## Released projects
 - **Miraria** (videogame)**:**
 
-[![Google play](https://img.shields.io/badge/Google_play-00A173?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=101010)](https://www.arduino.cc/)
-[![Gamejolt](https://img.shields.io/badge/Game_jolt-CCFF00?style=for-the-badge&logo=gamejolt&logoColor=white&labelColor=101010)](https://www.arduino.cc/)
+[![Google play](https://img.shields.io/badge/Google_play-00A173?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=101010)](https://play.google.com/store/apps/details?id=com.Ellukitas_123.Miraria&hl=es&gl=US)
+[![Gamejolt](https://img.shields.io/badge/Game_jolt-CCFF00?style=for-the-badge&logo=gamejolt&logoColor=white&labelColor=101010)](https://gamejolt.com/games/miraria/615126)
 
 ## Working-on projects
 - Omi
