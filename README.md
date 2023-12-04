@@ -3,6 +3,12 @@
 Hi 🤙, I'm a teenager writing code for more than 4 years, still learning.
 I've moved into videogames development and now discovering web development
 
+Ask me to do a webpage for you at:
+
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=101010)](https://es.fiverr.com/ellukitas_123)
+[![Email](https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=101010)](mailto:lucas.winand@hotmail.es)
+
 ### Technologies
 - **Git:**
 
@@ -25,6 +31,7 @@ I've moved into videogames development and now discovering web development
 </br>
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](https://react.dev/)
+[![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)](https://nextjs.org)
 </br>
 
 - **Cloud:**
