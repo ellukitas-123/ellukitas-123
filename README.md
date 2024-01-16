@@ -62,5 +62,6 @@ Ask me to do a webpage for you at:
 [![Gamejolt](https://img.shields.io/badge/Game_jolt-CCFF00?style=for-the-badge&logo=gamejolt&logoColor=white&labelColor=101010)](https://gamejolt.com/games/miraria/615126)
 
 ## Working-on projects
+- Weather app
+- Portfolio
 - Omi
-- KN webpage
