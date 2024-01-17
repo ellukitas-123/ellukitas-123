@@ -5,8 +5,6 @@ I've moved into videogames development and now discovering web development
 
 Ask me to do a webpage for you at:
 
-
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=101010)](https://es.fiverr.com/ellukitas_123)
 [![Email](https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=101010)](mailto:lucas.winand@hotmail.es)
 
 ### Technologies
