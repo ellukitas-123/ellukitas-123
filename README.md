@@ -1,7 +1,7 @@
-# Ellukitas_123
+# Lucas Winand Osete
 
 ## Presentation
-Hi 🤙, I'm a Computer Engineer at [Universidad Politécnica de Madrid](https://upm.es) writing code since I was 13, still learning.
+Hi 🤙, I'm a Computer Engineering student at [Universidad Politécnica de Madrid](https://upm.es) writing code since I was 13, still learning.
 I started with video games development, continued with frontend, and now moving towards fullstack development.
 
 Know more about me in my [portfolio](https://lucas.hexilith.com)
@@ -32,6 +32,7 @@ Know more about me in my [portfolio](https://lucas.hexilith.com)
 - **Infrastructure & Databases:**
 
 [![Aws](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=101010)](https://aws.amazon.com/en/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=101010)](https://cloudflare.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://www.docker.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)](https://www.postgresql.org/)
